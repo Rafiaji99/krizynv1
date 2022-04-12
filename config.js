@@ -64,7 +64,7 @@ kasihcaption = `*Kalau udah dikasih, bilang apa?*`
 namakontak1 = 'Rafi Aji ×፝֟͜×'
 namakontak2 = 'Vincent×͜×'
 
-//kasihcaption = `Kalau udah dikasih, bilang apa?`
+//kasihcaption = `Maap Kalo Image Error`
 
 // Sticker WM
 global.packname = 'Vincent' // ganti aja
