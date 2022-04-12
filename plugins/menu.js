@@ -35,7 +35,7 @@ const defaultMenu = {
   header: '╭─֍ 〔 %category 〕 ֍─',
   body: '┃⬡ %cmd %islimit %isPremium',
   footer: '╰────────֍\n',
-  footerText:'Vincent Botz', 
+  footerText:'𝙆𝙧𝙞𝙯𝙮𝙣 ×͜×', 
   after: `${namabot}
 `,
 }
@@ -239,10 +239,10 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┃⬣ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
 ┗━━━━━━━━━━━━━━֍
 ┏━━〔 𝘼𝘾𝘾𝙊𝙐𝙉𝙏 𝙊𝙒𝙉𝙀𝙍 〕━֍
-┃⬣ Github : Rafiajiya
-┃⬣ YT : Rafi X1
-┃⬣ TT : Gaada 
-┃⬣ FB : facebook.com/Fedora
+┃⬣ IG : instagram.com/mhdfakri_
+┃⬣ YT : youtube.com/c/HokenBeusz
+┃⬣ TT : tiktok.com/@unfaedahkan
+┃⬣ FB : facebook.com/mhdfakri1999
 ┃⬣ 𝘿𝙊𝙉'𝙏 𝙁𝙊𝙍𝙂𝙀𝙏 𝙏𝙊 𝙁𝙊𝙇𝙇𝙊𝙒𝙄𝙉𝙂!
 ┗━━━━━━━━━━━━━━֍`.trim(),
                         "footerText": "𝘑𝘪𝘬𝘢 𝘮𝘦𝘯𝘦𝘮𝘶𝘬𝘢𝘯 𝘣𝘶𝘨 𝘥𝘢𝘭𝘢𝘮 𝘱𝘦𝘯𝘨𝘨𝘶𝘯𝘢𝘢𝘯\n𝘚𝘪𝘭𝘢𝘩𝘬𝘢𝘯 𝘭𝘢𝘱𝘰𝘳𝘬𝘢𝘯 𝘰𝘳 𝘵𝘢𝘯𝘺𝘢𝘬𝘢𝘯 𝘬𝘦𝘱𝘢𝘥𝘢 𝙊𝙬𝙣𝙚𝙧",
@@ -252,35 +252,36 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                             {
                                 
                                 "rows": [{
-                                    "title": `[ 𓅂 ] 𝐒𝐞𝐦𝐮𝐚 𝐏𝐞𝐫𝐢𝐧𝐭𝐚𝐡`,
-									"description": "𝑴𝒆𝒎𝒃𝒆𝒓𝒊𝒌𝒂𝒏 𝑺𝒆𝒎𝒖𝒂 𝑭𝒊𝒕𝒖𝒓 𝑩𝒐𝒕 𝑽𝒊𝒏𝒄𝒆𝒏𝒕",
+                                    "title": `[ ☇ ] ꜱ ᴇ ᴍ ᴜ ᴀ  ᴘ ᴇ ʀ ɪ ɴ ᴛ ᴀ ʜༀ`,
+									"description": "✓ 𝙈𝙚𝙢𝙗𝙚𝙧𝙞𝙠𝙖𝙣 𝙎𝙚𝙢𝙪𝙖 𝙁𝙞𝙩𝙪𝙧 𝘽𝙤𝙩ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×",
 									"rowId": ".? all"
 								}, {
-									"title": "[ 𓅂 ] 𝐈𝐬𝐥𝐚𝐦",
-									"description": "𝑴𝒆𝒏𝒖 𝑻𝒆𝒏𝒕𝒂𝒏𝒈 𝑰𝒔𝒍𝒂𝒎 𝑩𝒐𝒕 𝑽𝒊𝒏𝒄𝒆𝒏𝒕"									"rowId": ".? quran"
+									"title": "[ ☇ ] ɪ ꜱ ʟ ᴀ ᴍༀ",
+									"description": "✓ 𝙈𝙚𝙣𝙪 𝙏𝙚𝙣𝙩𝙖𝙣𝙜 𝙄𝙨𝙡𝙖𝙢 𝘿𝙞 𝘽𝙤𝙩ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×",
+									"rowId": ".? quran"
 								}, {
-									"title": "[ 𓅂 ] 𝐄𝐝𝐮𝐤𝐚𝐬𝐢",
-									"description": "𝑴𝒆𝒏𝒖 𝑬𝒅𝒖𝒌𝒂𝒔𝒊 𝑩𝒐𝒕 𝑽𝒊𝒏𝒄𝒆𝒏𝒕",
+									"title": "[ ☇ ] ᴇ ᴅ ᴜ ᴋ ᴀ ꜱ ɪༀ",
+									"description": "✓ 𝙈𝙚𝙣𝙪 𝙀𝙙𝙪𝙠𝙖𝙨𝙞 𝘿𝙞 𝘽𝙤𝙩ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×",
 									"rowId": ".? edukasi"
 								}, {
-									"title": "[ 𓅂 ] 𝐍𝐞𝐰𝐬",
-									"description": "𝑴𝒆𝒏𝒖 𝑩𝒆𝒓𝒊𝒕𝒂 𝑩𝒐𝒕 𝑽𝒊𝒏𝒄𝒆𝒏𝒕",
+									"title": "[ ☇ ] ɴ ᴇ ᴡ ꜱༀ",
+									"description": "✓ 𝙈𝙚𝙣𝙪 𝘽𝙚𝙧𝙞𝙩𝙖 𝘿𝙞 𝘽𝙤𝙩ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×",
 									"rowId": ".? News"
 								},  {
-									"title": "[ 𓅂 ] 𝐆𝐚𝐦𝐞",
-									"description": "𝑴𝒆𝒏𝒖 𝑮𝒂𝒎𝒆 𝑩𝒐𝒕 𝑽𝒊𝒏𝒄𝒆𝒏𝒕",
+									"title": "[ ☇ ] ɢ ᴀ ᴍ ᴇༀ",
+									"description": "✓ 𝙈𝙚𝙣𝙪 𝙂𝙖𝙢𝙚 𝘿𝙞 𝘽𝙤𝙩ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×",
 									"rowId": ".? game"
 								}, {
-									"title": "[ 𓅂 ] 𝐄𝐩𝐢𝐜 𝐑𝐩𝐠",
-									"description": "𝑴𝒆𝒏𝒖 𝑮𝒂𝒎𝒆 𝑹𝒑𝒈 𝑩𝒐𝒕 𝑽𝒊𝒏𝒄𝒆𝒏𝒕",
+									"title": "[ ☇ ] ᴇ ᴘ ɪ ᴄ  ʀ ᴘ ɢༀ",
+									"description": "✓ 𝙈𝙚𝙣𝙪 𝙂𝙖𝙢𝙚 𝙍𝙋𝙂 𝘿𝙞 𝘽𝙤𝙩ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×",
 									"rowId": ".? rpg"
 								}, {
-									"title": "[ 𓅂 ] 𝐗𝐩",
-									"description": "𝑴𝒆𝒏𝒖 𝑿𝑷 𝑫𝒂𝒏 𝑳𝒆𝒗𝒆𝒍 𝑩𝒐𝒕 𝑽𝒊𝒏𝒄𝒆𝒏𝒕",
+									"title": "[ ☇ ] x ᴘༀ",
+									"description": "✓ 𝙈𝙚𝙣𝙪 𝙓𝙋 𝘿𝙖𝙣 𝙇𝙚𝙫𝙚𝙡 𝘿𝙞 𝘽𝙤𝙩ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×",
 									"rowId": ".? xp"
 								},  {
-									"title": "[ 𓅂 ] 𝐍𝐬𝐟𝐰",
-									"description": "𝑴𝒆𝒏𝒖 𝑨𝒔𝒖𝒑𝒂𝒏 𝑵𝒔𝒇𝒘 𝑩𝒐𝒕 𝑽𝒊𝒏𝒄𝒆𝒏𝒕",
+									"title": "[ ☇ ] ɴ ꜱ ꜰ ᴡༀ",
+									"description": "✓ 𝙈𝙚𝙣𝙪 𝘼𝙨𝙪𝙥𝙖𝙣 𝘿𝙞 𝘽𝙤𝙩ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×",
 									"rowId": ".? nsfw"
 								}, {
 									"title": "[ ☇ ] ʀ ᴀ ɴ ᴅ ᴏ ᴍ  ɪ ᴍ ᴀ ɢ ᴇༀ",
@@ -371,19 +372,19 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                             }, {
 								"rows": [{
                                     "title": "[ ☇ ] ꜱ ᴛ ᴀ ᴛ ᴜ ꜱ  ʙ ᴏ ᴛ",
-                                    "description": "✓ 𝙎𝙩𝙖𝙩𝙪𝙨 𝙙𝙖𝙣 𝙞𝙣𝙛𝙤𝙧𝙢𝙖𝙨𝙞 𝘽𝙤𝙩 𝑽𝒊𝒏𝒄𝒆𝒏𝒕",
+                                    "description": "✓ 𝙎𝙩𝙖𝙩𝙪𝙨 𝙙𝙖𝙣 𝙞𝙣𝙛𝙤𝙧𝙢𝙖𝙨𝙞 𝘽𝙤𝙩ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×",
                                     "rowId": ".botstatus"
                                 }, {
                                     "title": "[ ☇ ] ʀ ᴜ ʟ ᴇ ꜱ",
-                                    "description": "✓ 𝙐𝙨𝙚𝙧 𝙮𝙖𝙣𝙜 𝙗𝙞𝙟𝙖𝙠 𝙨𝙚𝙡𝙖𝙡𝙪 𝙢𝙚𝙢𝙖𝙩𝙪𝙝𝙞 𝙍𝙪𝙡𝙚𝙨 𝘽𝙤𝙩 𝑽𝒊𝒏𝒄𝒆𝒏𝒕",
+                                    "description": "✓ 𝙐𝙨𝙚𝙧 𝙮𝙖𝙣𝙜 𝙗𝙞𝙟𝙖𝙠 𝙨𝙚𝙡𝙖𝙡𝙪 𝙢𝙚𝙢𝙖𝙩𝙪𝙝𝙞 𝙍𝙪𝙡𝙚𝙨 𝘽𝙤𝙩ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×",
                                     "rowId": ".rules"
                                 }, {
                                     "title": "[ ☇ ] ꜱᴇᴡᴀ  ʙᴏᴛ  ᴏʀ  ᴘʀᴇᴍɪᴜᴍ",
-                                    "description": "✓ 𝙐𝙣𝙩𝙪𝙠 𝙮𝙖𝙣𝙜 𝙞𝙣𝙜𝙞𝙣 𝙢𝙚𝙡𝙞𝙝𝙖𝙩 𝙝𝙖𝙧𝙜𝙖 𝙨𝙚𝙬𝙖 𝙙𝙖𝙣 𝙥𝙧𝙚𝙢𝙞𝙪𝙢 𝘽𝙤𝙩 𝑽𝒊𝒏𝒄𝒆𝒏𝒕",
+                                    "description": "✓ 𝙐𝙣𝙩𝙪𝙠 𝙮𝙖𝙣𝙜 𝙞𝙣𝙜𝙞𝙣 𝙢𝙚𝙡𝙞𝙝𝙖𝙩 𝙝𝙖𝙧𝙜𝙖 𝙨𝙚𝙬𝙖 𝙙𝙖𝙣 𝙥𝙧𝙚𝙢𝙞𝙪𝙢 𝘽𝙤𝙩ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×",
                                     "rowId": ".sewabot"
 								}, {	
                                     "title": "[ ☇ ] ᴏ ᴡ ɴ ᴇ ʀ  ʙ ᴏ ᴛ",
-                                    "description": "✓ 𝙋𝙚𝙢𝙞𝙡𝙞𝙠 𝘽𝙤𝙩 𝑽𝒊𝒏𝒄𝒆𝒏𝒕",
+                                    "description": "✓ 𝙋𝙚𝙢𝙞𝙡𝙞𝙠 𝘽𝙤𝙩ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×",
                                     "rowId": ".owner"
                                 }, {
                                     "title": "[ ☇ ] ᴅ ᴏ ɴ ᴀ ꜱ ɪ",
